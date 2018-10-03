@@ -1,0 +1,7 @@
+{
+  "name": "sideTabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
